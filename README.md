@@ -1,7 +1,5 @@
-#### Professional looking for a position in Technical Writing, Software Engineering, and Data Analytics
-
 ## Education
-- B.S., Software Engineering | Cal Poly, San Luis Obispo (_December 2017_)
+B.S., Software Engineering | Cal Poly, San Luis Obispo (_December 2017_)
 
 ## Experience
 ### DevOps Intern at Warner Bros. (June 2017 - Aug 2017)
@@ -57,7 +55,7 @@ Proposal for Affiliated Bayesian Services detailing a Cloud Implementation Strat
 [AffiliatedBayesianServicesCloudProposal.pdf](https://drive.google.com/file/d/12GafAQlFZcZ8TKCgYCG-bmbV1Tow9hZz/view?usp=sharing)
 
 ### Code Sample of One Time Pad
-Code Sample detailing the One Time Pad algorithm, implementation code, and vulnerabilities.
+Code Sample detailing the One Time Pad algorithm, implementation code, and vulnerabilities. 
 [OneTimePadCodeSample.pdf](https://drive.google.com/file/d/1zgI5vXV-2KhKCSnvskfINPqv280aWIIg/view?usp=sharing)
 
 ### Product Report for Cal Poly SHPE iOS App
