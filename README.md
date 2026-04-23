@@ -1,7 +1,16 @@
+##
+
 ## Education
 B.S., Software Engineering | Cal Poly, San Luis Obispo (_December 2017_)
 
 ## Experience
+### Paraeducator at Oxnard Union High School District (Sept 2021 - Present)
+- Encourage and assist students during individual and classroom activities. 
+- Supervise and direct students to adhere to proper behavior and ensure a safe environment for students and staff. 
+- Evaluate students’ strengths, weaknesses, and abilities. 
+- Collaboratively work with paraeducators to fulfill classroom tasks and fulfill students’ needs.
+- Adhere to school policies and procedures at all times.
+
 ### DevOps Intern at Warner Bros. (June 2017 - Aug 2017)
 - Reduced resource allocation time by implementing new features for a tool responsible for configuring and allocating AWS resources for web applications.
 - Promoted security compliance by designing and implementing a tool to generate security-based inventory reporting on AWS resources for web applications. 
@@ -14,7 +23,6 @@ B.S., Software Engineering | Cal Poly, San Luis Obispo (_December 2017_)
 - Application reduced configuration and control time by 66 percent.
 - Communicated performance expectations and status of application with project manager.
 - Technologies: Ruby, Rails, HTML, CSS, JavaScript, SQLite
-
 
 ## Projects
 ### Crown Clothing (_Jan 2024  - Present_)
@@ -36,7 +44,6 @@ B.S., Software Engineering | Cal Poly, San Luis Obispo (_December 2017_)
 - Strengthened code maintainability and app functionality through code reviews and testing.
 - Technologies: C#, XAML, WILL writing framework, Azure App Services, Visual Studio
 
-
 ## Skills
 - Languages: Python, Java, JavaScript, HTML/CSS
 - Strong writing skills with experience writing software requirements specification documents, product overview reports, and proposal documents. 
@@ -47,7 +54,6 @@ B.S., Software Engineering | Cal Poly, San Luis Obispo (_December 2017_)
 - Experience working with developer tools such as Git and Jira
 - Experience working with relational databases and writing queries in SQL.
 - Experience working with document-oriented databases and writing queries in MQL.
-
 
 ## Documents
 ### Proposal for Affiliated Bayesian Services
@@ -62,4 +68,4 @@ Code Sample detailing the One Time Pad algorithm, implementation code, and vulne
 Product Report detailing features, requirements, user flow, architecture, and infrastructure of Cal Poly SHPE iOS App. 
 [SHPEiOSAppReport.pdf](https://drive.google.com/file/d/17-ajtZ0gsBA04gc4rrJsfD3xoaWA7AZ0/view?usp=sharing)
 
-
+##
