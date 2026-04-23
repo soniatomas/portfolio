@@ -1,4 +1,4 @@
-##
+##        
 
 ## Education
 B.S., Software Engineering | Cal Poly, San Luis Obispo (_December 2017_)
